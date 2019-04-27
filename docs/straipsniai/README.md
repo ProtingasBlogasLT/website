@@ -1,2 +1,3 @@
 # Straipsniai
 
+<Posts />

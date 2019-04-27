@@ -1,3 +1,15 @@
+---
+
+# image: /example-image.jpg
+
+title: Turinio valdymo sistema ar unikalus sprendimas?
+
+description: Visiems anksčiau ar vėliau prireikia internetinio tinklalapio. Nesvarbu kam jums jo reikia, ar kuriate verslą, ar norite įamžinti savo hobį, ar turite įdėją kaip galėtumėte užsidirbti iš interneto.  Tuomet dažnam kyla klausimai kaip ir su kuo kurti savo internetinį tinklalapį, ar daug tai kainuos, kiek laiko gali užtrukt ir panašūs klausimai. Šiame straipsnyje bus pasvarstymai kada kurį variantą reiktų rinktis ir kodėl. Straipsnis į situaciją labiau pažvelgs iš kliento pusės, tačiau vienas kitas patarimas tiks ir tiems kurie pradeda kurti internetinius tinklalapius.
+
+date: 2016-12-27
+
+---
+
 # Turinio valdymo sistema ar unikalus sprendimas?
 
 Visiems anksčiau ar vėliau prireikia internetinio tinklalapio. Nesvarbu kam jums jo reikia, ar kuriate verslą, ar norite įamžinti savo hobį, ar turite įdėją kaip galėtumėte užsidirbti iš interneto.  Tuomet dažnam kyla klausimai kaip ir su kuo kurti savo internetinį tinklalapį, ar daug tai kainuos, kiek laiko gali užtrukt ir panašūs klausimai. Šiame straipsnyje bus pasvarstymai kada kurį variantą reiktų rinktis ir kodėl. Straipsnis į situaciją labiau pažvelgs iš kliento pusės, tačiau vienas kitas patarimas tiks ir tiems kurie pradeda kurti internetinius tinklalapius.

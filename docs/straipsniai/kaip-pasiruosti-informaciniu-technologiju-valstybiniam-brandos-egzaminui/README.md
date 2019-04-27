@@ -1,3 +1,15 @@
+---
+
+# image: /example-image.jpg
+
+title: Kaip pasiruošti informacinių technologijų valstybiniam brandos egzaminui? 
+
+description: Iki valstybinių brandos egzaminų liko vos pusmetis, tačiau tikriausiai jau daugelis abiturientų žino kur norėtų studijuoti ir kokių egzaminų gali prireikti. Galbūt kai kurie iš jūsų laikys informatikos valstybinį brandos egzaminą ir jeigu dar nepradėjote mokytis, laiko pasiruošti vis dar yra!
+
+date: 2015-12-06
+
+---
+
 # Kaip pasiruošti informacinių technologijų valstybiniam brandos egzaminui?
 
 Iki valstybinių brandos egzaminų liko vos pusmetis, tačiau tikriausiai jau daugelis abiturientų žino kur norėtų studijuoti ir kokių egzaminų gali prireikti. Galbūt kai kurie iš jūsų laikys informatikos valstybinį brandos egzaminą ir jeigu dar nepradėjote mokytis, laiko pasiruošti vis dar yra!

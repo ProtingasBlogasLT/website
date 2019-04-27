@@ -1,3 +1,15 @@
+---
+
+# image: /example-image.jpg
+
+title: Pirmi du metai studijuojant informatiką Kauno Technologijos Universitete
+
+description: Šiame straipsnyje papasakosiu apie studijų tvarką, apžvelgsiu kiekvieną modulį atskirai kurį turėjau, pateiksiu informaciją kaip sekėsi daugumai studentų mano kurse ir duosiu kažkiek patarimų tiems, kas galvoja studijuoti informatiką Kauno Technologijos Universitete.
+
+date: 2016-03-04
+
+---
+
 # Pirmi du metai studijuojant informatiką Kauno Technologijos Universitete
 
 Neapsigaukite, aš studijuoju Multimedijos Technologijas, tačiau straipsnio pavadinime miniu informatiką. Ir ne, tai ne klaida. Tiesiog, pirmi du metai visoms informatikos specializacijoms (bent jau KTU) yra vienodi ar bent labai panašūs. Aš kalbu apie šias studijų programas: informatiką, informacines sistemas, programų sistemas, informatikos inžineriją ir t.t.. Aišku, vienas kitas dalykas gali skirtis, pavyzdžiui modulių išdėstymas semestruose, ar kreditų skaičius konkretiems moduliams, bet daugiausiai informacijos tiks bet kuriai iš išvardintų programų.
