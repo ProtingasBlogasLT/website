@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Protingas Blogas
 
 informacija apie projektą

@@ -11,14 +11,19 @@ module.exports = {
             { text: 'Apie mus', link: '/apie-mus/' },
             { text: 'Kontaktai', link: '/kontaktai/' },
         ],
-        sidebar: {
-            '/kursai/cpp/': [
-                '',
-            ],
-            '/kursai/csharp/': [
-                '',
-            ],
-        },
+        sidebar: 'auto',
+        // sidebar: {
+        //     // '/kursai/' : [
+        //     //     '/kursai/',
+        //     //     'apie-mokomaja-medziaga/',
+        //     // ],
+        //     // '/kursai/cpp/': [
+        //     //     '',
+        //     // ],
+        //     // '/kursai/csharp/': [
+        //     //     '',
+        //     // ],
+        // },
         lastUpdated: 'Paskutinis atnaujinimas',
     },
 }
